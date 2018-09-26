@@ -1,1 +1,4 @@
-CLUSTERNAME
+*.json
+
+*.ipynb_checkpoints
+
